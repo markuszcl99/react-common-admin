@@ -2,6 +2,7 @@ import React, { lazy } from "react";
 // import About from "@/views/About";
 import Home from "@/views/Home";
 import { Navigate } from "react-router-dom";
+import Login from "@/views/Login";
 import Page1 from "@/views/page1";
 import Page2 from "@/views/page2";
 import Page301 from "@/views/page301";
@@ -64,6 +65,10 @@ const routes = [
                 element: withLoadingComponent(<Page5/>)
             }
         ]
+    },
+    {
+        path:"/login",
+        element: <Login/>
     },
     // 嵌套路由结束
     {
