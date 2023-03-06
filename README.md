@@ -11,3 +11,20 @@
         <img src="https://img.shields.io/github/issues/markuszcl99/react-common-admin" alt="issues" />
     </p>
 </div>
+
+
+## 运行效果
+
+**登录页**
+
+![](./src/assets/img/loginPage.jpg)
+
+**管理页**
+
+![](./src/assets/img/adminPage.jpg)
+
+## 本地运行
+
+### 一、环境准备
+
+### 二、代码拉取
